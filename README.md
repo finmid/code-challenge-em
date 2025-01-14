@@ -22,3 +22,5 @@ Since the company is growing, the team decided that you need to start splitting 
 You want to design and present a technical solution to the team to deliver this feature as an MVP.
 
 Your task is to write an **RFC** on the integration option with finmid.
+
+> Note: We expect only RFC describing your solution. We don't expect any coding or example implementation.
